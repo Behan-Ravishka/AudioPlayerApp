@@ -13,9 +13,19 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio",
+          "fetch"
+        ]
+      }
     },
     "android": {
+      "permissions": [
+        "WAKE_LOCK",
+        "FOREGROUND_SERVICE"
+      ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
