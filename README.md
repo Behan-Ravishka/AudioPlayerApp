@@ -28,7 +28,11 @@ src/
 App.js
 
 app.json
+
 index.js
+
 package-lock.json
+
 package.json
+
 tsconfig.json
