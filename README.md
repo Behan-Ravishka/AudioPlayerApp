@@ -24,7 +24,9 @@ src/
     └── utils/
         └── AudioManager.ts
 .gitignore
+
 App.js
+
 app.json
 index.js
 package-lock.json
