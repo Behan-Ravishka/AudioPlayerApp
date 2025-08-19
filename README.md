@@ -1,5 +1,5 @@
 # File Structure :-
-'''
+```
 assets/
     ├── images/
         └── album-art.jpg
@@ -28,4 +28,4 @@ index.js
 package-lock.json
 package.json
 tsconfig.json
-'''
+```
