@@ -1,7 +1,6 @@
 # File Structure :-
-
+'''
 assets/
-
     ├── images/
         └── album-art.jpg
     ├── adaptive-icon.png
@@ -9,7 +8,6 @@ assets/
     ├── icon.png
     └── splash-icon.png
 src/
-
     ├── components/
         ├── AlbumArt.tsx
         ├── AudioControls.tsx
@@ -24,15 +22,10 @@ src/
     └── utils/
         └── AudioManager.ts
 .gitignore
-
 App.js
-
 app.json
-
 index.js
-
 package-lock.json
-
 package.json
-
 tsconfig.json
+'''
